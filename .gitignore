@@ -1,0 +1,22 @@
+node_modules/
+data/
+workspace/
+.serena/
+.claude/
+.DS_Store
+dist/
+
+# kit-3d runtime data
+kit-3d/offices/
+kit-3d/_test/
+
+# Desktop build output and isolated verification data
+desktop/node_modules/
+desktop/.npm-cache/
+desktop/.cargo/
+desktop/resources/
+desktop/src-tauri/target/
+desktop/core/target/
+desktop/src-tauri/gen/
+desktop/.smoke/
+desktop/bundle-inputs.json

@@ -1,0 +1,10 @@
+{
+  "ดาวเรือง": {"sex": "f", "outfit": "suit", "hair": "long", "hairColor": "#151012", "skin": "#e7bf9c", "glasses": false, "top": "#e8dcc6", "inner": "#c9a57e", "bottom": "#e8dcc6", "shoes": "#d8c9ae"},
+  "ใบเตย": {"sex": "f", "outfit": "suit", "hair": "long", "hairColor": "#3a2418", "skin": "#e0b48e", "glasses": false, "top": "#b5654f", "inner": "#efe3d3", "bottom": "#eadfcb", "shoes": "#8a5a3c"},
+  "น้ำผึ้ง": {"sex": "f", "outfit": "suit", "hair": "ponytail", "hairColor": "#1e1411", "skin": "#e8bf9b", "glasses": false, "top": "#9aab93", "inner": "#f3f1ec", "bottom": "#c49a6c", "shoes": "#f0f0ee"},
+  "ลมหนาว": {"sex": "f", "outfit": "suit", "hair": "bob", "hairColor": "#4a2c1e", "skin": "#e3b48c", "glasses": false, "top": "#d6246e", "inner": "#ead9c4", "bottom": "#e6d6bc", "shoes": "#b88a62"},
+  "ภูผา": {"sex": "f", "outfit": "suit", "hair": "bob", "hairColor": "#121012", "skin": "#e8c3a0", "glasses": true, "top": "#1b1b1e", "inner": "#151515", "bottom": "#1b1b1e", "shoes": "#141414"},
+  "ฟ้าคราม": {"sex": "f", "outfit": "suit", "hair": "bun", "hairColor": "#151012", "skin": "#eccaa8", "glasses": true, "top": "#28282b", "inner": "#d9b4a6", "bottom": "#232326", "shoes": "#1a1a1a"},
+  "ข้าวหอม": {"sex": "f", "outfit": "suit", "hair": "bob", "hairColor": "#2a1a16", "skin": "#d9a77f", "glasses": false, "top": "#1f2638", "inner": "#6e1f2c", "bottom": "#1f2638", "shoes": "#1a1a1a"},
+  "มะลิ": {"sex": "f", "outfit": "casual", "hair": "bun", "hairColor": "#2a2020", "skin": "#dcab84", "glasses": true, "top": "#eadfcc", "inner": "#f1ece2", "bottom": "#6b5a4a", "shoes": "#7a5a42"}
+}
