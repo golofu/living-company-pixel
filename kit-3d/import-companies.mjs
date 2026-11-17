@@ -178,7 +178,7 @@ async function main() {
     fs.writeFileSync(markerFile, JSON.stringify({ sha256: hash, rosterFile, importedAt: new Date().toISOString() }, null, 2) + '\n', 'utf8');
     console.log(`${office.name}: นำเข้า ${state.agents.length} คนแล้ว`);
   }
-  if (!hidden && !test && !args.includes('--no-browser')) for (const office of offices) powershell(`Start-Process 'http://127.0.0.1:${office.port}'`);
+  if (!hidden && !test && !args.includes('--no-browser')) for (const office of offices) powershell(`Start-Process 'http://127.0.0.1:${office.port}/?view=pixel'`);
   console.log('พร้อมใช้งานแล้ว');
   progress('complete');
 }

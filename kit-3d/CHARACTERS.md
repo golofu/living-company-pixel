@@ -43,9 +43,9 @@ use the skin head bounds and the measured eye level at 64% of head height.
 
 Run `npm.cmd run dev`, then open:
 
-- `/preview.html?names=มาธิตา,มาริสา,เมธิกา&pose=stand`
-- `/preview.html?names=มาธิตา&pose=sit&view=side`
-- `/preview.html?names=มาธิตา&pose=type&view=side`
+- `/preview.html?names=ดาวเรือง,ใบเตย,ภูผา&pose=stand`
+- `/preview.html?names=ดาวเรือง&pose=sit&view=side`
+- `/preview.html?names=ดาวเรือง&pose=type&view=side`
 - `/preview.html?pose=walk` for all named looks.
 - `/preview.html?names=CEO&pose=stand` for the player.
 
